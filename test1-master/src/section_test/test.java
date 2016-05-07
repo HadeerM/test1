@@ -9,7 +9,7 @@ public class test {
 
 	private static void method() {
 		// TODO Auto-generated method stub
-		System.out.println("Hamed!"); // tmam?
+		System.out.println("H aasadsadadasdasdaamed!"); // tmam?
 
 	}
 
